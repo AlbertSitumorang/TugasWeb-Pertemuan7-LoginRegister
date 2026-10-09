@@ -1,5 +1,5 @@
 ## ScreenShoot
 
-! [Gambar](Gambar/Screenshot%201.png)
+! [Gambar](gambar/Screenshot%201.png)
 
-! [Gambar](Gambar/Screenshot%202.png)
+! [Gambar](gambar/Screenshot%202.png)
